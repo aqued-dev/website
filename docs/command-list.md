@@ -20,5 +20,19 @@ afkが設定または解除されます。<br/>
 Genshin Artifacterのような画像を作成できます。<br/>
 使用方法：/build uid: プレイヤーid 計算方法: 計算方法。<br/>
 `artifacter.mikn.dev`apiを使用しています。<br/>
-
+## free_channel
+フリーチャンネル作成パネルを生成します。<br/>
+使用方法: /free_channel channel: チャンネル作成先カテゴリ<br/>
+![image](https://github.com/aqued-dev/website/assets/78240988/e41e3958-0e90-445f-92a1-1967894afd2c)<br/>
+![image](https://github.com/aqued-dev/website/assets/78240988/a9fec460-f75b-4efd-96ad-e59fbea2aee7)
+## globalchat
+グローバルチャットに参加します。<br/>
+使用方法: /globalchat channel: 参加するチャンネル<br/>
+![image](https://github.com/aqued-dev/website/assets/78240988/bceecf46-65fb-404b-b27b-5b940a111d43)
+## image cat
+猫の画像を表示します。<br/>
+使用方法: /image cat
+## image dog
+犬の画像を表示します。<br/>
+使用方法: /image dog
 **これからも追加していきます。**
