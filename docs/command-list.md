@@ -35,4 +35,16 @@ Genshin Artifacterのような画像を作成できます。<br/>
 ## image dog
 犬の画像を表示します。<br/>
 使用方法: /image dog
+## message_expander
+サーバーの、メッセージ展開の有効/無効を設定します。<br/>
+使用方法: /message_expander<br/>
+![image](https://github.com/aqued-dev/website/assets/78240988/df8921e3-e305-4803-88a8-123bd1c776ba)
+## moderate ban_member
+banされたメンバーを表示します(要権限)<br/>
+使用方法: /moderate ban_member
+## moderate ban
+メンバーをbanします(要権限)<br/>
+使用方法: /moderate ban user:banするユーザー reason: banする理由(オプション) delete_message: どこまでのメッセージを削除するか(オプション)
+
+
 **これからも追加していきます。**
