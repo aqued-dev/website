@@ -45,6 +45,35 @@ banされたメンバーを表示します(要権限)<br/>
 ## moderate ban
 メンバーをbanします(要権限)<br/>
 使用方法: /moderate ban user:banするユーザー reason: banする理由(オプション) delete_message: どこまでのメッセージを削除するか(オプション)
-
+## moderate kick
+メンバーをkickします。(要権限)<br/>
+使用方法: /moderate kick user:kickするユーザー reason: kickする理由(オプション) 
+## moderate timeout
+メンバーをタイムアウトします。(要権限)<br/>
+使用方法: /moderate timeout user:タイムアウトするユーザー time:タイムアウトする期間(分単位) reason: タイムアウトする理由(オプション)
+## moderate untimeout
+メンバーをタイムアウトを解除します。(要権限)<br/>
+使用方法: /moderate timeout user:タイムアウトを解除するユーザー reason: タイムアウトを解除する理由(オプション)
+## moderate unban
+メンバーのbanを解除します(要権限)<br/>
+使用方法: /moderate unban user:banするユーザー reason: banを解除する理由(オプション) 
+## ping
+botのping値を返します。<br/>
+使用方法: /ping
+## slot
+スロットができます<br/>
+使用方法: /slot
+## slowmode
+低速モードを設定します。<br/>
+使用方法: /slowmode
+## tanzaku
+短冊を生成します。<br/>
+使用方法: /tanzaku text:テキスト
+## url_check
+URLの安全性を確認します。<br/>
+使用方法: /url_check url:URL
+## userinfo
+ユーザーの情報を表示します。<br/>
+使用方法: /userinfo user:ユーザー
 
 **これからも追加していきます。**
