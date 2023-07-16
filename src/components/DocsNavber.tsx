@@ -48,6 +48,9 @@ const data = [
     label: 'Releases',
     icon: IconCalendarStats,
     links: [
+      { label: 'v3.1.0', link: '/docs/v3.1.0' },
+      { label: 'v3.0.1', link: '/docs/v3.0.1' },
+      { label: 'v3.0.0', link: '/docs/v3.0.0' },
       { label: 'v2.3.0', link: '/docs/v2.3.0' },
       { label: 'v2.2.0', link: '/docs/v2.2.0' },
       { label: 'v2.1.1', link: '/docs/v2.1.1' },
