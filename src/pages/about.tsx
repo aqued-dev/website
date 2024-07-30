@@ -33,7 +33,7 @@ export default function Home() {
             </Link>
             <br />
             mail:
-            <Link href="mailto:contact@aqued-dev.gx1285.com">contact@aqued-dev.gx1285.com</Link>
+            <Link href="mailto:aqued@gx1285.com">aqued@gx1285.com</Link>
             <br /> bluesky:
             <Link href="https://bsky.app/profile/aqued.bsky.social">
               https://bsky.app/profile/aqued.bsky.social
