@@ -4,8 +4,7 @@ description: 'Force Pin解除コマンドについて'
 ---
 
 Force Pinを解除します。<br/>
-![画像](https://media.discordapp.net/attachments/1125362848281935993/1125405538860142622/image.png?width=261&height=298)
-
+<img src="https://github.com/user-attachments/assets/3e6b8513-b135-4ac8-b5cb-751ef06d6410" width="450">
 ## 使い方
 
 何かのメッセージ右クリック > アプリ > Force Pin解除。
