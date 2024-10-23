@@ -59,7 +59,8 @@ banされたメンバーを表示します(要権限)<br/>
 使用方法: /moderate unban user:banするユーザー reason: banを解除する理由(オプション) 
 ## ping
 botのping値を返します。<br/>
-使用方法: /ping
+使用方法: /ping<br/>
+![image](https://github.com/user-attachments/assets/57da0c9f-5586-4ad2-a995-ddd28525132c)
 ## slot
 スロットができます<br/>
 使用方法: /slot
@@ -68,7 +69,8 @@ botのping値を返します。<br/>
 使用方法: /slowmode
 ## tanzaku
 短冊を生成します。<br/>
-使用方法: /tanzaku text:テキスト
+使用方法: /tanzaku text:テキスト<br/>
+![image](https://github.com/user-attachments/assets/a8872bbc-4e3d-4ab6-813f-049ff164b5d8)
 ## url_check
 URLの安全性を確認します。<br/>
 使用方法: /url_check url:URL
