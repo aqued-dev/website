@@ -4,8 +4,7 @@ description: 'Pingコマンドについて'
 ---
 
 bot の ping 値を返します。<br/>
-![画像](https://media.discordapp.net/attachments/1125362848281935993/1125362859958882325/image.png)
-
+![image](https://github.com/user-attachments/assets/57da0c9f-5586-4ad2-a995-ddd28525132c)
 ## 使い方
 
 /ping
