@@ -76,6 +76,7 @@ URLの安全性を確認します。<br/>
 使用方法: /url_check url:URL
 ## userinfo
 ユーザーの情報を表示します。<br/>
-使用方法: /userinfo user:ユーザー
+使用方法: /userinfo user:ユーザー<br/>
+![スクリーンショット 2024-10-24 201121](https://github.com/user-attachments/assets/7c3f6c11-d40f-45fb-873b-c79807d70c1d)<br/>
 
 **これからも追加していきます。**
