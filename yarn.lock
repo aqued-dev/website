@@ -858,10 +858,10 @@
   resolved "https://registry.yarnpkg.com/@textlint/utils/-/utils-14.4.2.tgz#b709cbbf1ee4023c7ee1b47d7f1ca5979608c583"
   integrity sha512-bhns1Cws+4dERz6KGFVLLGf0vFK6r5LiKKeg7N3Hnh0QNbzy7TYO+HTfZsgcqBvZSJeAeowzKyDQ8nSsflPbJw==
 
-"@types/json-bigint@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.npmjs.org/@types/json-bigint/-/json-bigint-1.0.1.tgz"
-  integrity sha512-zpchZLNsNuzJHi6v64UBoFWAvQlPhch7XAi36FkH6tL1bbbmimIF+cS7vwkzY4u5RaSWMoflQfu+TshMPPw8uw==
+"@types/json-bigint@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@types/json-bigint/-/json-bigint-1.0.4.tgz#250d29e593375499d8ba6efaab22d094c3199ef3"
+  integrity sha512-ydHooXLbOmxBbubnA7Eh+RpBzuaIiQjh8WGJYQB50JFGFrdxW7JzVlyEV7fAXw0T2sqJ1ysTneJbiyNLqZRAag==
 
 "@types/json5@^0.0.29":
   version "0.0.29"
