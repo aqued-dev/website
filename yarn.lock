@@ -3017,10 +3017,10 @@ markdown-table@^2.0.0:
   dependencies:
     repeat-string "^1.0.0"
 
-marked@^5.1.0:
-  version "5.1.0"
-  resolved "https://registry.npmjs.org/marked/-/marked-5.1.0.tgz"
-  integrity sha512-z3/nBe7aTI8JDszlYLk7dDVNpngjw0o1ZJtrA9kIfkkHcIF+xH7mO23aISl4WxP83elU+MFROgahqdpd05lMEQ==
+marked@^15.0.7:
+  version "15.0.7"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-15.0.7.tgz#f67d7e34d202ce087e6b879107b5efb04e743314"
+  integrity sha512-dgLIeKGLx5FwziAnsk4ONoGwHwGPJzselimvlVskE9XLN4Orv9u2VA3GWw/lYUqjfA0rUT/6fqKwfZJapP9BEg==
 
 match-index@^1.0.1, match-index@^1.0.3:
   version "1.0.3"
@@ -3289,10 +3289,10 @@ mongodb@5.9.2:
   optionalDependencies:
     "@mongodb-js/saslprep" "^1.1.0"
 
-mongoose@^7.8.4:
-  version "7.8.4"
-  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-7.8.4.tgz#d6f123bf88ceba528f79d74a1e9fbba3beb20f11"
-  integrity sha512-qqQ7imsb9lyrW1jmYj6/wDiSewRtd/gpOU2Vdy1AMRBT7jrghKnoDMbC3keFUzZ0iyo3ZcYumisPKFnap5R4zQ==
+mongoose@^7.3.1:
+  version "7.8.6"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-7.8.6.tgz#86e9c287bf9f15a1d4f236426b5d698b1685a8c3"
+  integrity sha512-1oVPRHvcmPVwk/zeSTEzayzQEVeYQM1D5zrkLsttfNNB7pPRUmkKeFu6gpbvyEswOuZLrWJjqB8kSTY+k2AZOA==
   dependencies:
     bson "^5.5.0"
     kareem "2.5.1"
@@ -3346,7 +3346,6 @@ multipipe@^1.0.2:
   dependencies:
     duplexer2 "^0.1.2"
     object-assign "^4.1.0"
-
 
 nanoid@^3.3.6:
   version "3.3.8"
