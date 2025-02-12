@@ -23,6 +23,7 @@
     "gray-matter": "4",
     "json-bigint": "^1.0.0",
     "marked": "^5.1.0",
+    "mongoose": "^7.8.4",
     "mongoose": "^7.3.1",
     "next": "14.2.21",
     "react": "18.2.0",
