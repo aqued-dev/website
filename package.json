@@ -36,7 +36,7 @@
     "typescript": "5.1.5"
   },
   "devDependencies": {
-    "@types/json-bigint": "^1.0.1",
+    "@types/json-bigint": "^1.0.4",
     "@types/marked": "^5.0.0"
   },
   "packageManager": "yarn@1.22.19"
