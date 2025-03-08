@@ -71,7 +71,9 @@ botのping値を返します。<br/>
 ![スクリーンショット 2025-03-08 232159](https://github.com/user-attachments/assets/55ca9c5b-99f6-4405-aed9-d879e1be6fff)
 ## slowmode
 低速モードを設定します。<br/>
-使用方法: /slowmode
+使用方法: /slowmode<br/>
+![スクリーンショット 2025-03-09 002041](https://github.com/user-attachments/assets/b8b59b30-80fb-4f14-b61d-5d268dd5f58d)<br/>
+![スクリーンショット 2025-03-09 002129](https://github.com/user-attachments/assets/4d9a13c0-b7e7-43e4-ac25-21d0b7268346)
 ## tanzaku
 短冊を生成します。<br/>
 使用方法: /tanzaku text:テキスト<br/>
