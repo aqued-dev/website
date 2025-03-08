@@ -35,6 +35,10 @@ Genshin Artifacterのような画像を作成できます。<br/>
 ## image dog
 犬の画像を表示します。<br/>
 使用方法: /image dog
+## janken
+じゃんけんできます。<br/>
+使用方法: /janken hand: 出す手<br/>
+![スクリーンショット 2025-03-08 232546](https://github.com/user-attachments/assets/c0ba5ab6-68dc-48f3-b159-c04ef417870c)
 ## message_expander
 サーバーの、メッセージ展開の有効/無効を設定します。<br/>
 使用方法: /message_expander<br/>
@@ -63,7 +67,8 @@ botのping値を返します。<br/>
 ![image](https://github.com/user-attachments/assets/57da0c9f-5586-4ad2-a995-ddd28525132c)
 ## slot
 スロットができます<br/>
-使用方法: /slot
+使用方法: /slot<br/>
+![スクリーンショット 2025-03-08 232159](https://github.com/user-attachments/assets/55ca9c5b-99f6-4405-aed9-d879e1be6fff)
 ## slowmode
 低速モードを設定します。<br/>
 使用方法: /slowmode
