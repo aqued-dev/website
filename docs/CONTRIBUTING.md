@@ -3,7 +3,6 @@ title: 'この Bot へ貢献'
 description: 'Aqued のCONTRIBUTING.md。'
 ---
 
-# この Bot へ貢献
 
 ## パッケージマネージャー
 
